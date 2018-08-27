@@ -1,0 +1,9 @@
+[package]
+name = "nphysics-0_8-memleak"
+version = "0.1.0"
+authors = ["Maksim Ustichenko <nix.n0uk@gmail.com>"]
+
+[dependencies]
+nphysics2d = "0.9.1"
+nalgebra = "0.16.0"
+ncollide2d = "0.17.1"
